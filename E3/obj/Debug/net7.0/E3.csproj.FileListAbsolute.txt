@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\E3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\E3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\E3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\E3.AssemblyInfo.cs
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\E3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sem5_H\E3\bin\Debug\net7.0\E3.exe
+C:\Users\User\Desktop\Sem5_H\E3\bin\Debug\net7.0\E3.deps.json
+C:\Users\User\Desktop\Sem5_H\E3\bin\Debug\net7.0\E3.runtimeconfig.json
+C:\Users\User\Desktop\Sem5_H\E3\bin\Debug\net7.0\E3.dll
+C:\Users\User\Desktop\Sem5_H\E3\bin\Debug\net7.0\E3.pdb
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\E3.dll
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\refint\E3.dll
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\E3.pdb
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\E3.genruntimeconfig.cache
+C:\Users\User\Desktop\Sem5_H\E3\obj\Debug\net7.0\ref\E3.dll
